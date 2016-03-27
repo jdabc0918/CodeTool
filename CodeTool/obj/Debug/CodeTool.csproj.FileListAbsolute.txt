@@ -1,0 +1,9 @@
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\bin\Debug\CodeTool.exe.config
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\obj\Debug\CodeTool.csprojResolveAssemblyReference.cache
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\obj\Debug\CodeTool.mainForm.resources
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\obj\Debug\CodeTool.Properties.Resources.resources
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\obj\Debug\CodeTool.csproj.GenerateResource.Cache
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\bin\Debug\CodeTool.exe
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\bin\Debug\CodeTool.pdb
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\obj\Debug\CodeTool.exe
+c:\users\yosuke\documents\visual studio 2013\Projects\CodeTool\CodeTool\obj\Debug\CodeTool.pdb
